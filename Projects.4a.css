@@ -1,0 +1,4 @@
+table,tr,td,caption{
+    border: 1px solid green;
+    color: rgb(15, 15, 15);
+}
